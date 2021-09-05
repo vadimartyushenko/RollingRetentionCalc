@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollingRetentionCalc", "Rol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBRepository", "DBRepository\DBRepository.csproj", "{19A29FC3-D15C-4535-B1E6-38F32D8D4DA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{0235E13E-903E-45B1-B149-F6B33BDA972E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{19A29FC3-D15C-4535-B1E6-38F32D8D4DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19A29FC3-D15C-4535-B1E6-38F32D8D4DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19A29FC3-D15C-4535-B1E6-38F32D8D4DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0235E13E-903E-45B1-B149-F6B33BDA972E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0235E13E-903E-45B1-B149-F6B33BDA972E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0235E13E-903E-45B1-B149-F6B33BDA972E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0235E13E-903E-45B1-B149-F6B33BDA972E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
