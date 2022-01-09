@@ -1,7 +1,7 @@
 ﻿
 namespace DBRepository.Interfaces
 {
-    interface IRepositoryContextFactory
+    public interface IRepositoryContextFactory
     {
         public RepositoryContext CreateDbContext(string connectionString);
     }
