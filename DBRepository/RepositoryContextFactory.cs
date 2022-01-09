@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DBRepository
 {
-    class RepositoryContextFactory : IRepositoryContextFactory
+    public class RepositoryContextFactory : IRepositoryContextFactory
     {
         public RepositoryContext CreateDbContext(string connectionString)
         {
